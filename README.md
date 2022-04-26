@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dnproebstle
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
+- 🌱 I know Python, C, and Java
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me dnproebstle@students.unwsp.edu
 
